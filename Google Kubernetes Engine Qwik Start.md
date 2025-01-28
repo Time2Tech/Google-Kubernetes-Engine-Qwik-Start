@@ -1,6 +1,4 @@
-# Google Kubernetes Engine: Qwik Start || [GSP100](https://www.cloudskillsboost.google/focuses/878?parent=catalog) ||
-
-## Solution [here](https://youtu.be/JDvl1ZugYyY)
+# Google Kubernetes Engine: Qwik Start 
 
 ### Run the following Commands in CloudShell
 ```
@@ -19,7 +17,3 @@ sudo chmod +x gsp100.sh
 ##### *You Have Successfully Demonstrated Your Skills And Determination.*
 
 #### *Well done!*
-
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
